@@ -1,5 +1,7 @@
 # Alzheimer-Disease-Project
 
+DATASET & Inspiration: https://www.kaggle.com/code/schorsi/classification-of-alzheimers-95-totw 
+
 Details about the ADNI Dataset
 The Alzheimer's Disease Neuroimaging Initiative (ADNI) is a landmark longitudinal study focused on understanding, identifying, and tracking biomarkers of Alzheimer's disease (AD) and related cognitive disorders. It aims to accelerate the development of treatments and interventions for AD by studying various stages of the disease and collecting extensive neuroimaging, clinical, genetic, and biomarker data.
 Within the ADNI dataset, participants are typically classified into three main groups based on their cognitive status:
