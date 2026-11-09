@@ -144,7 +144,6 @@ The two-phase transfer learning approach was inspired by [Alzheimer-dementia-pre
 
 - `Alzheimers_Classification.ipynb`: the notebook
 - `images/`: training curves and confusion matrices of the two models
-- Other notebooks: [Google Drive folder](https://drive.google.com/drive/folders/1e4up9-G1HTpSjSQmT2x0KHsVQdUfx5-G?usp=sharing)
 
 ## License
 
