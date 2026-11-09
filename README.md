@@ -1,5 +1,7 @@
 # Alzheimer's Disease Classification from MRI Images
 
+> **Educational project.** This is not a medical device or a diagnostic tool and must not be used for clinical decisions. It uses a dataset originally published on [Kaggle](https://www.kaggle.com/tourist55): see [Data](#data) for the sources and [Limitations](#limitations) for what the results can and cannot show.
+
 A deep learning project, built with Keras, that classifies brain MRI images into four classes and compares a baseline convolutional network (CNN) with a transfer learning model:
 
 - `NonDemented`
@@ -147,4 +149,4 @@ The two-phase transfer learning approach was inspired by [Alzheimer-dementia-pre
 
 ## License
 
-[MIT](LICENSE)
+The code is released under the [MIT License](LICENSE). The license does not cover the dataset, which is not included in this repository and remains subject to the terms of its original authors.
